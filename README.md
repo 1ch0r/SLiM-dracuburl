@@ -9,7 +9,7 @@ A sleek, custom SLiM (Simple Login Manager) theme featuring:
 This theme brings a modern, colorful aesthetic to your login screen while staying lightweight and fast.
 📸 Preview
 
-    Add a screenshot here if you’d like!
+    ![Login screen preview](dracuburl-demo.png)
 
 ## 📁 Files Included
 
