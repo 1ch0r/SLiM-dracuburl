@@ -7,8 +7,7 @@ A sleek, custom SLiM (Simple Login Manager) theme featuring:
     🌙 Dracula-inspired color palette
 
 ## 📸 Preview
-
-    ![Login screen preview](dracuburl-demo.png)
+![Login screen preview](dracuburl-demo.png)
 
 ## 📁 Files Included
 
