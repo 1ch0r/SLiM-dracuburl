@@ -1,4 +1,4 @@
-🧛‍♂️ SLiM-dracuburl
+# 🧛‍♂️ SLiM-dracuburl
 
 A sleek, custom SLiM (Simple Login Manager) theme featuring:
 
@@ -11,7 +11,7 @@ This theme brings a modern, colorful aesthetic to your login screen while stayin
 
     Add a screenshot here if you’d like!
 
-📁 Files Included
+## 📁 Files Included
 
     slim.theme – Main theme configuration, edit positioning as needed.
 
@@ -22,7 +22,7 @@ This theme brings a modern, colorful aesthetic to your login screen while stayin
 
     panel.png – Contains the login field image. Colors and alpha can be edited in GIMP.
 
-🐧 Installation Guide (Gentoo)
+## 🐧 Installation Guide (Gentoo)
 '''bash
 git clone https://github.com/1ch0r/dracuburl.git
 cd dracuburl
