@@ -27,7 +27,7 @@ This theme brings a modern, colorful aesthetic to your login screen while stayin
 git clone https://github.com/1ch0r/dracuburl.git
 cd dracuburl
 sudo cp -r dracuburl /usr/share/slim/themes/dracuburl
-'''bash
+
 
 Edit /etc/slim.conf and set: "current_theme dracuburl"
 Reboot (SLiM caches themes so it won't be recognized until cache gets cleared)
