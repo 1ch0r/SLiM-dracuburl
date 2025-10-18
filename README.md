@@ -25,6 +25,9 @@ A sleek, custom SLiM (Simple Login Manager) theme featuring:
 git clone https://github.com/1ch0r/dracuburl.git
 cd dracuburl
 sudo cp -r dracuburl /usr/share/slim/themes/dracuburl
+sudo mkdir -p /usr/share/fonts/tiposka-dev
+sudo cp TiposkaDev.ttf /usr/share/fonts/tiposka-dev/
+sudo fc-cache -fv
 ```
 Edit /etc/slim.conf and set: "current_theme dracuburl"
 ```bash
