@@ -5,7 +5,7 @@
 # Messages (ie: shutdown)
 msg_color               #f1fa8c
 #msg_color               #ffffff
-msg_font                Tiposka Dev:size=16:bold
+msg_font                Tiposka:size=16:bold
 msg_shadow_xoffset 2
 msg_shadow_yoffset 2
 msg_shadow_color  	#666666
@@ -21,7 +21,7 @@ input_name_y            66
 input_pass_x            146
 input_pass_y            112
 
-input_font          	Tiposka Dev:size=12
+input_font          	Tiposka:size=12
 #input_fgcolor           #dda5c3
 #input_bgcolor           #0c5a60
 #
@@ -32,7 +32,7 @@ input_font          	Tiposka Dev:size=12
 
 
 # Welcome message
-welcome_font          	Tiposka Dev:size=14:bold:outline
+welcome_font          	Tiposka:size=14:bold:outline
 welcome_color          	#FF5555
 welcome_x              	130
 welcome_y              	20
@@ -42,14 +42,14 @@ welcome_shadow_yoffset 2
 welcome_shadow_color   #3d3633
 
 username_color  	#BD93F9
-username_msg            username:
-username_font           Tiposka Dev:size=14:bold
-username_x              9
+username_msg            user
+username_font           Tiposka:size=14:bold
+username_x              74
 username_y              66
 username_shadow_xoffset 1
 username_shadow_yoffset 1
 username_shadow_color   #333333
 
-password_msg		password:
-password_x              9
+password_msg		        passwd
+password_x              43
 password_y              113
