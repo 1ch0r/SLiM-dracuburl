@@ -23,9 +23,6 @@ A sleek, custom SLiM (Simple Login Manager) theme featuring:
 git clone https://github.com/1ch0r/dracuburl.git
 cd dracuburl
 sudo cp -r dracuburl /usr/share/slim/themes/dracuburl
-sudo mkdir -p /usr/share/fonts/tiposka
-sudo cp Tiposka.ttf /usr/share/fonts/tiposka/
-sudo fc-cache -fv
 ```
 -`Download Tiposka from BestFonts and install it`
 ```bash
